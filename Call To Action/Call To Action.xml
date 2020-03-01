@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<Collection name="Call To Action" guid="{fd1685af-bc66-4649-a8f1-1b3c18d59d24}" system="No" updatable="Yes" blockNavigatorNode="Yes">
+	<HelpLink></HelpLink>
+	<Help></Help>
+	<ImportCollection name="Design Blocks">{2d3f9a21-9602-4549-b5df-5e09a9dae57e}</ImportCollection>
+</Collection>
